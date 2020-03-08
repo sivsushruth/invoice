@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "discount": {
+      "every": 2,
+      "free": 1
+    }
+  },
+  {
+    "id": 2,
+    "discount": {
+      "minimum_quantity": 2,
+      "rate_reduction": 0.95
+    }
+  }
+]

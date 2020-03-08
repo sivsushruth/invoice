@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Invoice Coffee Mug",
+    "code": "MUG",
+    "price": 7.5
+  },
+  {
+    "name": "Invoice T-Shirt",
+    "code": "TSHIRT",
+    "promotion_id": 2,
+    "price": 20
+  },
+  {
+    "name": "Invoice Voucher",
+    "code": "VOUCHER",
+    "price": 5,
+    "promotion_id": 1 
+  }
+]
