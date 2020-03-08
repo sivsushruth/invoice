@@ -31,7 +31,7 @@ defmodule Invoice.Mixfile do
 
   defp package() do
     [
-      name: "Invoice",
+      name: "invoice",
       licenses: ["Apache-2.0"],
       links: %{"GitHub" => "https://github.com/sivsushruth/invoice", "Documentation" => "https://hexdocs.pm/invoice"}
     ]
